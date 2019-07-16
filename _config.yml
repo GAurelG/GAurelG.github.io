@@ -1,2 +1,4 @@
 pluggins
   - jekyll-sitemap
+
+theme: jekyll-theme-cayman
